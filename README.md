@@ -1,8 +1,6 @@
-# MyFirstAngularProject
+# Full Stack: Angular and Java Spring Boot E-Commerce Website Udemy Course by Chad Darby
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
-
-Full Stack: Angular and Java Spring Boot E-Commerce Website Udemy Course by Chad Darby
 
 ## Development server
 
