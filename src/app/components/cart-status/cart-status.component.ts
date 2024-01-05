@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { CartService } from 'src/app/services/cart.service';
 
 @Component({
@@ -6,7 +6,7 @@ import { CartService } from 'src/app/services/cart.service';
   templateUrl: './cart-status.component.html',
   styleUrls: ['./cart-status.component.css']
 })
-export class CartStatusComponent {
+export class CartStatusComponent implements OnInit {
 
   totalPrice: number = 0.00;
   totalQuantity: number = 0;
