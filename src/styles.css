@@ -134,7 +134,7 @@ aside.menu-sidebar.d-none.d-lg-block.clr{
  */
 
 .header-desktop{
-    background:#0b9442;
+    background:#0da8e4;
     -webkit-box-shadow:0 2px 5px 0 rgba(0,0,0,.1);
     -moz-box-shadow:0 2px 5px 0 rgba(0,0,0,.1);
     box-shadow:0 2px 5px 0 rgba(0,0,0,.1);
@@ -250,11 +250,11 @@ input.au-input.au-input-xl{
 }
 
 .total{
-    background:#09560d;
+    background:#205b8d;
     line-height:43px;
     color:#fff;
     border-radius:30px;
-    border:1px solid #085025;
+    border:1px solid #0da8e4;
     float:left;
     margin-top:7px;
     padding-left:17px
@@ -283,15 +283,15 @@ input.au-input.au-input-xl{
     right:0;
     min-width:95px;
     color:#fff;
-    border:1px solid #09560d;
+    border:1px solid #205b8d;
     -webkit-border-radius:3px;
     -moz-border-radius:3px;
     border-radius:43px;
-    background:#09560d;
+    background:#205b8d
 }
 
 .au-btn-submit:hover{
-    background:#109817
+    background:#05143f
 }
 
 .au-btn-submit>i{
@@ -378,7 +378,7 @@ input.au-input.au-input-xl{
 }
 
 .navbar-sidebar .navbar-list li a:hover{
-    color:#0de446
+    color:#0da8e4
 }
 
 /* 
@@ -514,7 +514,7 @@ input.au-input.au-input-xl{
     background:#fff
 }
 .main-content.page-m{
-    padding:10% 15%!important
+    padding: 10% 30% 10% 5%
 }
 
 /* 
@@ -542,7 +542,7 @@ input.au-input.au-input-xl{
 .price{
     margin:15px 0 0;
     font-weight:800;
-    color:#0de463
+    color:#0da8e4
 }
 .product-box h1{
     font-size:18px;
@@ -717,8 +717,9 @@ table.table.table-bordered th{
  .price{
     margin:15px 0 0;
     font-weight:800;
-    color:#0b9442
+    color:#0da8e4
 }
+
 .detail-section{
     margin-top:60px
 }
@@ -726,6 +727,7 @@ table.table.table-bordered th{
 .detail-img{
     width: 30%;
 }
+
 /**/
 
 /* 
@@ -1023,11 +1025,11 @@ footer ul li{
         margin-left:6px
     }
     .total{
-        background:#09560d;
+        background:#205b8d;
         line-height:30px;
         color:#fff;
         border-radius:30px;
-        border:1px solid #09560d;
+        border:1px solid #205b8d;
         float:left;
         margin-top:9px;
         padding-left:12px
